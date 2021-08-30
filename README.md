@@ -1,2 +1,1 @@
-# Fakenews-Recognition
-Fakenews Recognition
+# FR
